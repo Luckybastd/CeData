@@ -14,8 +14,8 @@
                     <div class="page-title text-center justify-content-center">
                         <div class="space-60"></div>
                         <img src="{{ asset('style/images/logo-name.png') }}" alt="Logo" style="max-width: 30%"><br>
-                        <h5 class="title wow" style="color: white">Hubungi Kami</h5>
-                        <h3 class="dark-color wow" data-wow-delay="0.4s" style="color: white">Temukan Kami Melalui Kontak Berikut</h3>
+                        <h5 class="title wow" style="color: #2B4A9D">Hubungi Kami</h5>
+                        <h3 class="dark-color wow" data-wow-delay="0.4s" style="color: #2B4A9D">Temukan Kami Melalui Kontak Berikut</h3>
                         <div class="space-60"></div>
                     </div>
                 </div>
