@@ -2,8 +2,8 @@
     "version": 2,
     "builds": [
         {
-            "src": "api/index.php",
-            "use": "vercel-php@0.7.3" 
+            "src": "api_router/index.php",
+            "use": "vercel-php@0.7.3"
         },
         {
             "src": "public/**",
@@ -17,7 +17,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "/api/index.php"
+            "dest": "/api_router/index.php"
         }
     ]
 }
